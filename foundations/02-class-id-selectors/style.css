@@ -11,3 +11,8 @@
 .change-font-size {
     font-size: 24px;
 }
+
+#anotherID {
+    background-color: lightgreen;
+    font-weight: bold;
+}
